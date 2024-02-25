@@ -1,6 +1,6 @@
 # UpennDataProject1
 ## Authors
-Harrison Lee, Chau Ngyuen, Julius Bzozowski, Temi Olufemi
+Harrison Lee, Chau Nguyen, Julius Bzozowski, Temi Olufemi
 
 # Summary of project
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a group, we were motivated to perform our data analysis on a topic that could provide real-world data and potentially lead to positive change. Our research was based around the general concept of: “Does access to public transit and publicly funded programs have an effect on the future-readiness of students in the state of Michigan?”. We narrowed this project down to Michigan only, for the sake of the timeline we had to work with. Cleaning this data was challenging, as we had to merge several different datasets and even convert an unlabeled .txt file into a clean dataset of its own. We were interested to learn more about this topic because of our shared passion for accessibility to education as well as upward mobility.
